@@ -2,7 +2,7 @@
  * Button_Driver.c
  *
  * Created: 11/6/2023 4:08:29 PM
- *  Author: HaNdSyA---
+ *  Author: Ahmed Al-Sheikh
  */ 
 #include "DIO_driver.h"
 void button_init(char port,char pin)
