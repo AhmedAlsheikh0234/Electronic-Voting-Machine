@@ -4,3 +4,4 @@ every button are for each of the candidates while the last button is a reset but
 
 Note: be mindful of interfacing of LCD and buttons with the MCU according to the .h files files 
       adjust the .h file if you do a different interfacing
+     
