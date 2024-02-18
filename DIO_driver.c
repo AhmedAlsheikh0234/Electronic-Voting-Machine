@@ -2,7 +2,7 @@
  * DIO_driver.c
  *
  * Created: 10/5/2023 2:40:29 AM
- *  Author: HaNdSyA---
+ *  Author: Ahmed Al-Sheikh
  */ 
 /*
 PORT = DDR     PIN=pin number     dir=i/o?      val=1 or 0
