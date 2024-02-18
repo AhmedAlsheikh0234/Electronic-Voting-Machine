@@ -2,7 +2,7 @@
  * LCD_driver.h
  *
  * Created: 11/27/2023 6:02:09 PM
- *  Author: HaNdSyA---
+ *  Author: Ahmed Al-Sheikh
  */ 
 
 
