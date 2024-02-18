@@ -2,7 +2,7 @@
  * LCD_driver.c
  *
  * Created: 11/27/2023 6:02:49 PM
- *  Author: HaNdSyA---
+ *  Author: Ahmed Al-Sheikh
  */ 
 #include "LCD_driver.h"
 #include <avr/io.h>
